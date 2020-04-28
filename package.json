@@ -1,0 +1,17 @@
+{
+  "name": "bottle",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "uni-vue-router": "^1.2.0",
+  },
+  "devDependencies": {},
+  "description": ""
+}
